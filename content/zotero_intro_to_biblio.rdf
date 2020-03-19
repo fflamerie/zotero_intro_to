@@ -1,0 +1,499 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <rdf:Description rdf:about="https://fbib.gitbooks.io/up-to-speed-with-zotero/content/">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>EPFL Library Teaching Team</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fbib.gitbooks.io/up-to-speed-with-zotero/content/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>CC-BY-4.0</dc:rights>
+        <dc:date>2020</dc:date>
+        <dcterms:dateSubmitted>2018-04-09 14:02:50</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>up-to-speed-with-zotero: These course notes have been created for EPFL Library 's training Up to speed with Zotero - quick start workshop, in Lausanne, Switzerland. Slides for this training are available on HackMD (https://go.epfl.ch/ztart).</dcterms:abstract>
+        <dc:title>Up to speed with Zotero [course notes]</dc:title>
+    </rdf:Description>
+    <bib:ConferenceProceedings rdf:about="https://speakerdeck.com/markding/collecting-organizing-and-citing-scientific-literature-an-intro-to-zotero">
+        <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dingemanse</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <link:link rdf:resource="#item_33445"/>
+        <link:link rdf:resource="#item_31639"/>
+        <link:link rdf:resource="#item_31640"/>
+        <link:link rdf:resource="#item_31641"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://speakerdeck.com/markding/collecting-organizing-and-citing-scientific-literature-an-intro-to-zotero</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>CC BY 4.0</dc:rights>
+        <dc:date>2018/03</dc:date>
+        <dcterms:dateSubmitted>2019-01-07 15:06:14</dcterms:dateSubmitted>
+        <z:language>en-US</z:language>
+        <dc:title>Collecting, organizing and citing scientific literature : an intro to Zotero</dc:title>
+    </bib:ConferenceProceedings>
+    <bib:Document rdf:about="https://tomsaunders.co.nz/zotero-guide/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Tom Saunders</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saunders</foaf:surname>
+                        <foaf:givenName>Tom</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://tomsaunders.co.nz/zotero-guide/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>13/02/2019</dc:date>
+        <dcterms:dateSubmitted>2019-02-15 14:30:30</dcterms:dateSubmitted>
+        <dc:title>Guide to Getting the Most out of Zotero</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://twitter.com/DoctorJRo/status/1166056789642625024">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>@DoctorJRo</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Robles</foaf:surname>
+                        <foaf:givenName>Jessica S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://twitter.com/DoctorJRo/status/1166056789642625024</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>26/08/2019</dc:date>
+        <dcterms:dateSubmitted>2019-08-28 06:52:34</dcterms:dateSubmitted>
+        <z:type>Twitter</z:type>
+        <z:language>fr</z:language>
+        <dc:title>me when I have to go back to writing to change the style &amp;amp; references #AcademicLife https://t.co/tFYWKZAkVa</dc:title>
+        <z:shortTitle>Jessica S. Robles sur Twitter</z:shortTitle>
+    </bib:Document>
+    <bib:Article rdf:about="https://search.ebscohost.com/login.aspx?direct=true&amp;db=buh&amp;AN=110861138&amp;lang=fr&amp;site=ehost-live">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:09571264"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vigar-Ellis</foaf:surname>
+                        <foaf:givenName>Debbie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pitt</foaf:surname>
+                        <foaf:givenName>Leyland</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Caruana</foaf:surname>
+                        <foaf:givenName>Albert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_35259"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://search.ebscohost.com/login.aspx?direct=true&amp;db=buh&amp;AN=110861138&amp;lang=fr&amp;site=ehost-live</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>304-318</bib:pages>
+        <dc:date>December 2015</dc:date>
+        <dcterms:dateSubmitted>2020-03-11 14:41:41</dcterms:dateSubmitted>
+        <z:libraryCatalog>EBSCOhost</z:libraryCatalog>
+        <dcterms:abstract>Wine is a heterogeneous, information-rich offering, with a plethora of brands in the market. Knowledge of wines amidst such diversity understandably varies. In addition, some offer opinions on wine while others seek them. Yet, the interplay between opinion leadership and opinion seeking, on the one hand, and wine knowledge, both objective and subjective, has received little attention by wine marketing researchers. Thus, this paper explores the relationships between opinion leadership and opinion seeking among wine consumers, and investigates whether objective and subjective knowledge varies between opinion leaders and seekers. An online survey was used to collect data on the four constructs and correlation analysis was undertaken to investigate the relationships between them. Key findings indicate that those who tend to seek opinions about wine tend not to have high objective knowledge of wine, as may be expected. On the other hand, opinion leaders think that they know about wine, and generally are objectively knowledgeable. Thus, their influence on others is not only based on communication, but on fact, representing a valuable source of influence for wine marketers. Understanding target consumers’ wine knowledge levels can potentially impact every aspect of wine marketing strategy.</dcterms:abstract>
+        <dc:title>Does objective and subjective knowledge vary between opinion leaders and opinion seekers? Implications for wine marketing</dc:title>
+        <z:shortTitle>Does objective and subjective knowledge vary between opinion leaders and opinion seekers?</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:09571264">
+        <prism:volume>26</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>Journal of Wine Research</dc:title>
+        <dc:identifier>ISSN 09571264</dc:identifier>
+        <dcterms:alternative>Journal of Wine Research</dcterms:alternative>
+        <dc:identifier>DOI 10.1080/09571264.2015.1092120</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_35259">
+        <rdf:value>&lt;p&gt;Part of exercise 5-1&lt;/p&gt;
+&lt;h2&gt;How to retrieve the full-text pdf file and save it as an attachment in your Zotero library?&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;color: #800000;&quot;&gt;/!\ This case is a bit tricky as :&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;color: #800000;&quot;&gt;access to full-text is not provided by the publisher's site but by a third-party database,&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: #800000;&quot;&gt;it is not possible to save the PDF through Zotero Connector from this database.&lt;/span&gt;&lt;strong&gt;&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Steps to follow&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Make sure you have set up University of Bordeaux OpenURL in Zotero &amp;gt; Preferences &amp;gt; Advanced &amp;gt; General -&amp;gt; the value of the OpenURL field should be :  &lt;code&gt;&lt;a href=&quot;https://babordplus.hosted.exlibrisgroup.com/primo-explore/openurl?&amp;amp;Force_direct=false&amp;amp;vid=33PUDB_UB_VU1&amp;amp;institution=33PUDB_UB&amp;amp;&quot;&gt;https://babordplus.hosted.exlibrisgroup.com/primo-explore/openurl?&amp;amp;Force_direct=false&amp;amp;vid=33PUDB_UB_VU1&amp;amp;institution=33PUDB_UB&amp;amp;&lt;/a&gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;In your Zotero library, under the &quot;Locate&quot; menu (the green horizontal arrow) at the top of the right column, click on &quot;Library Lookup&quot;.&lt;/li&gt;
+&lt;li&gt;A Babord+ window will be displayed in your web browser.&lt;/li&gt;
+&lt;li&gt;Select &quot;Business Source Premier (EBSCOhost)&quot; to access full-text.&lt;/li&gt;
+&lt;li&gt;When you are on the article's page on Business Source Premier, download the PDF file and save it on your computer.&lt;/li&gt;
+&lt;li&gt;Select the item in your Zotero library.&lt;/li&gt;
+&lt;li&gt;Go to the &quot;Add Attachment&quot; paperclip button at the top of the center column.&lt;/li&gt;
+&lt;li&gt;Select &quot;Attached Stored Copy of File…&quot;.&lt;/li&gt;
+&lt;li&gt;This option is also available right-clicking the selected item in your Zotero library.&lt;/li&gt;
+&lt;/ol&gt;</rdf:value>
+    </bib:Memo>
+    <bib:BookSection rdf:about="urn:isbn:978-3-319-18857-7">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-3-319-18857-7</dc:identifier>
+                <dc:title>Wine and Tourism: A Strategic Segment for Sustainable Economic Development</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gonçalves</foaf:surname>
+                        <foaf:givenName>Eduardo Cordeiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maduro</foaf:surname>
+                        <foaf:givenName>António Valério</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peris-Ortiz</foaf:surname>
+                        <foaf:givenName>Marta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Del Río Rama</foaf:surname>
+                        <foaf:givenName>María de la Cruz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rueda-Armengot</foaf:surname>
+                        <foaf:givenName>Carlos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_35296"/>
+        <link:link rdf:resource="#item_35262"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/978-3-319-18857-7_9</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>123-132</bib:pages>
+        <dc:date>2016</dc:date>
+        <dc:description>DOI: 10.1007/978-3-319-18857-7_9</dc:description>
+        <dcterms:dateSubmitted>2020-03-11 14:56:12</dcterms:dateSubmitted>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Today, wine and tourism are two complementary resources defined by the context of the area: by the region’s conditions for regulating and certifying wine that form the basis for the demarcated region, and because tourism, in this field, is intimately linked to the design and attraction of the destination for tourists. One example of the symbiotic relationship between the two sectors is the Douro Valley (Portugal), which includes the first demarcated, regulated region in the world. It produces world-renowned wines and its landscape has been classified by UNESCO as Heritage of Humanity. The Douro area is marked by development based on the territorial framework applied to the region and its functioning is structured around “Quintas” (estates). These estates are the basic production units and are the result of a historic, social, economic, cultural and organizational process. Wine tourism in the Douro region is more than a specific reason to make the journey, prompted by wine; it is a new business opportunity and a catalyst for the region’s economy. Linked to the World Centre of Excellence for Destinations, the Douro is considered a “rural, natural destination of discovery” based on its success in wine tourism and the design of its wine routes. This success is aided by the reputation of the region’s wine, the organization of the wineries and the welcome given to visitors, as well as the stimulation and promotion of endogenous features and the creation of a range of services, attractions and events that complement the wineries and qualify the region as a tourist product integrated into a cultural framework.</dcterms:abstract>
+        <dc:title>Complementarity and Interaction of Tourist Services in an Excellent Wine Tourism Destination: The Douro Valley (Portugal)</dc:title>
+        <z:shortTitle>Complementarity and Interaction of Tourist Services in an Excellent Wine Tourism Destination</z:shortTitle>
+    </bib:BookSection>
+    <bib:Memo rdf:about="#item_35296">
+       <rdf:value>&lt;p&gt;Part of exercise 5-1&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Thesis rdf:about="https://hdl.handle.net/10182/1046">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Lincoln University</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duarte Alonso</foaf:surname>
+                        <foaf:givenName>Abel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_35290"/>
+        <link:link rdf:resource="#item_35266"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://hdl.handle.net/10182/1046</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2005</dc:date>
+        <dcterms:dateSubmitted>2020-03-11 15:01:43</dcterms:dateSubmitted>
+        <z:libraryCatalog>researcharchive.lincoln.ac.nz</z:libraryCatalog>
+        <z:type>Doctoral dissertation</z:type>
+        <z:language>en</z:language>
+        <dcterms:abstract>Recently, New Zealand's wine industry has made remarkable progress. For example,
+the number of hectares planted in grapes increased from 4,880 in 1990, to 15,479 in
+2003, and the number of wineries increased from 175 in 1993 to 421 in 2003.
+Projections for 2006 indicate that the growth of wine exports should nearly double
+from 2003, with expected revenues of $NZ 736 million.
+However, despite this growth, little has been reported about developments in New
+Zealand's wine tourism industry, or about consumer perceptions of the winery
+experience in the form of published academic research. The limited amount of
+information, particularly from the visitors' points of view, may not only be preventing
+winery operators and the wine industry in general from having a better understanding
+of their visitors, but also from addressing the needs of different visitor segments.
+Resulting implications for winery operators may include forgone business
+opportunities, and customers not fully benefiting in terms of product and service
+quality. Recent studies indicate that this last element is particularly important in wine tourism.
+This study reports the results of an exploratory research project conducted in New
+Zealand wineries that investigated aspects of the winery experience, including wine
+involvement, satisfaction with the winery experience, and visitor demographics. An
+index to measure involvement with wine, the wine involvement index (WIX), was
+developed and utilised to investigate whether wine involvement had an impact on
+winery visitors' behaviour.
+Data were collected from winery visitors via questionnaires distributed in a sample of
+wineries in different wine regions of New Zealand. A total of 609 usable responses
+were obtained (24.8% response rate). The results indicate a number of differences
+between the independent, dependent, and moderating variables. For example, it was
+found that age, whether visitors are domestic or international, and different levels of
+wine involvement appear to have a clear impact on winery expenditure. In addition,
+the WIX was confirmed to be a useful tool, for example, by identifying potential
+relationships between different groups of winery visitors.
+The results add new knowledge to the area of wine tourism, and offer useful
+information for wineries and the wine tourism industry. This information includes the
+potential commercial significance of some visitor groups. An additional contribution
+of this study is the 'complete wine tourism research model.' This concept presents an
+alternative to existing wine tourism models, and points out attributes and dimensions
+that play a major role in the winery experience.</dcterms:abstract>
+        <dc:title>Wine tourism experiences in New Zealand: an exploratory study</dc:title>
+        <z:shortTitle>Wine tourism experiences in New Zealand</z:shortTitle>
+        <z:archive>Research@Lincoln</z:archive>
+    </bib:Thesis>
+    <bib:Memo rdf:about="#item_35290">
+        <rdf:value>&lt;p&gt;Part of exercise 5-1&lt;/p&gt;
+&lt;h2&gt;Changes to make by hand&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Field &lt;em&gt;Type&lt;/em&gt; : change &quot;Thesis&quot; to &quot;Doctoral dissertation&quot;&lt;/li&gt;
+&lt;li&gt;Field &lt;em&gt;Archive&lt;/em&gt; : provide the name of the archive from which you downloaded the thesis&lt;/li&gt;
+&lt;/ul&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://doi.org/10.1080/09571264.2018.1433140">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0957-1264"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cassar</foaf:surname>
+                        <foaf:givenName>Mario L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Caruana</foaf:surname>
+                        <foaf:givenName>Albert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Konietzny</foaf:surname>
+                        <foaf:givenName>Jirka</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_35295"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doi.org/10.1080/09571264.2018.1433140</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>49-63</bib:pages>
+        <dc:date>January 2, 2018</dc:date>
+        <dcterms:dateSubmitted>2020-03-13 09:33:18</dcterms:dateSubmitted>
+        <z:libraryCatalog>Taylor and Francis+NEJM</z:libraryCatalog>
+        <dcterms:abstract>Wine tourism is becoming an increasingly important tourism niche with various regions competing for tourism dollars. It is often assumed that differentiation in the sector is region based. This research investigates the positioning narratives from websites of a sample of top wine tour service firms across the US and Australia. Analysis is undertaken using an innovative methodology that combines computer-based lexical analysis followed by hierarchical clustering on principal components. The research seeks to determine the extent to which identified clusters are region based and whether the positioning narratives on websites can provides useful clusters across regions. Results are reported, implications are discussed, limitations are noted and possible areas for further research are indicated.</dcterms:abstract>
+        <dc:title>Positioning narratives of wine tourism websites: a lexical analysis across two different regions</dc:title>
+        <z:shortTitle>Positioning narratives of wine tourism websites</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0957-1264">
+        <prism:volume>29</prism:volume>
+        <prism:number>1</prism:number>
+        <dc:title>Journal of Wine Research</dc:title>
+        <dc:identifier>ISSN 0957-1264</dc:identifier>
+        <dc:identifier>DOI 10.1080/09571264.2018.1433140</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_35295">
+       <rdf:value>&lt;p&gt;Part of exercise 3-2&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="urn:isbn:978-92-844-2144-2">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>World Tourism Organization (UNWTO)</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>World Tourism Organization (UNWTO)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dcterms:isReferencedBy rdf:resource="#item_35294"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.e-unwto.org/doi/book/10.18111/9789284421442</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:identifier>ISBN 978-92-844-2144-2</dc:identifier>
+        <dc:date>2020-02-24</dc:date>
+        <dc:description>DOI: 10.18111/9789284421442</dc:description>
+        <dcterms:dateSubmitted>2020-03-13 09:39:52</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:title>Yearbook of Tourism Statistics, Data 2014 – 2018, 2020 Edition</dc:title>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_35294">
+       <rdf:value>&lt;p&gt;Part of exercise 3-2&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://www.mdpi.com/2306-5710/6/1/14">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2306-5710"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verdonk</foaf:surname>
+                        <foaf:givenName>Naomi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ristic</foaf:surname>
+                        <foaf:givenName>Renata</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Culbert</foaf:surname>
+                        <foaf:givenName>Julie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pearce</foaf:surname>
+                        <foaf:givenName>Karma</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilkinson</foaf:surname>
+                        <foaf:givenName>Kerry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_35293"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2306-5710/6/1/14</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>14</bib:pages>
+        <dc:date>2020-03-01</dc:date>
+        <dcterms:dateSubmitted>2020-03-13 10:13:14</dcterms:dateSubmitted>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>This study investigated the perceptions and preferences of Australian wine consumers towards different styles of sparkling wine, including French Champagne and Australian sparkling white, red and rosé wine, Moscato and Prosecco. An online survey of 1027 regular sparkling wine consumers captured demographic information, sparkling wine perceptions and preferences, and typical spending and consumption patterns. Consumers were segmented into three distinct clusters (‘No Frills’, ‘Aspirants’ and ‘Enthusiasts’) using the Fine Wine Instrument model. The majority of No Frills consumers were female and typically consumed sparkling wine once per month. Almost 55% of Aspirants were male with a household income of more than AU$75,000. Enthusiast consumers were also predominantly male and well educated, and 64% were under the age of 35 years. Sparkling white wine and Champagne were generally the preferred styles for each consumer group, followed by Moscato and sparkling rosé wine. Interestingly, Moscato scored favorably with both No Frills and Enthusiast segments. Almost 25% of respondents indicated that they were not familiar with Prosecco, while sparkling red wine was perceived similarly by male and female consumers. The findings from this study can be used by sparkling wine producers to better target their products and marketing to the specific needs and expectations of consumers within different segments of the Australian domestic market.</dcterms:abstract>
+        <dc:title>Understanding Australian Wine Consumers’ Preferences for Different Sparkling Wine Styles</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2306-5710">
+        <prism:volume>6</prism:volume>
+        <prism:number>1</prism:number>
+        <dc:title>Beverages</dc:title>
+        <dc:identifier>ISSN 2306-5710</dc:identifier>
+        <dcterms:alternative>Beverages</dcterms:alternative>
+        <dc:identifier>DOI 10.3390/beverages6010014</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_35293">
+       <rdf:value>&lt;p&gt;Part of exercise 3-2&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Document rdf:about="https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_other_print_sources.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Purdue Writing Lab</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Purdue Writing Lab</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_other_print_sources.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-03-17 13:59:35</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>The Purdue University Online Writing Lab serves writers from around the world and the Purdue University Writing Lab helps writers on Purdue's campus.</dcterms:abstract>
+        <dc:title>APA Formatting And Style Guide (7th Edition) : Reference List: Other Print Sources</dc:title>
+        <z:shortTitle>Reference List</z:shortTitle>
+    </bib:Document>
+</rdf:RDF>
