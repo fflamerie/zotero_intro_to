@@ -7,7 +7,7 @@ Dingemanse, M. (2018, March). _Collecting, organizing and citing scientific lite
 
 EPFL Library Teaching Team. (2020). _Up to speed with Zotero [course notes]_. https://fbib.gitbooks.io/up-to-speed-with-zotero/content/
 
-The following icon ![zotero][zotero] points to the official Zotero documentation, including Zotero forums : it is the best source of help and information !
+The following icon ![zotero][zotero] points to the official Zotero documentation, including Zotero forums : it is the best source for more information and some help !
 
 
 ## Learning objectives
@@ -139,12 +139,12 @@ Besides, the existing Zotero Connector for Safari was already much more limited 
 
 | Software -> Feature | ![logo BibTeX](img/refman_bibtex.png) | ![logo EndNote](img/refman_endnote.jpg) | ![logo Mendeley](img/refman_mendeley.png) | ![logo ReadCube](img/refman_readcube.png) | ![logo Zotero](img/refman_zotero.png) |
 | :----: | :----: | :-----: | :------: | :------: | :----: |
-| **Name**  | BibTeX | EndNote | Mendeley | Papers/ReadCube | Zotero |
-| **License** | free license | owned by<br/>Clarivate Analytics | owned by<br/>Elsevier | owned by<br/>Digital Science &<br/>Research Solutions, Inc. | free license |
-| **Cost** | free of charge | public price : about €100 including student discount | free of charge | $3/ month including student discount | free of charge |
+| **Name**  | BibTeX | EndNote | Mendeley | ReadCube/Papers | Zotero |
+| **License** | free license | owned by<br/>Clarivate Analytics | owned by<br/>Elsevier | owned by<br/>Digital Science & Research, Inc. | free license |
+| **Cost** | free of charge | public price : about €100 including student discount | free of charge | $5/month<br/>student discount: $3/month | free of charge |
 | **suppported OS** | ![](img/os_windows.png)![](img/os_mac.png)![](img/os_linux.png) | ![](img/os_windows.png)![](img/os_mac.png) | ![](img/os_windows.png)![](img/os_mac.png)![](img/os_linux.png) | ![](img/os_windows.png)![](img/os_mac.png) | ![](img/os_windows.png)![](img/os_mac.png)![](img/os_linux.png) |
 | **Full integration with... for writing** | LaTeX | Word<br/>LibreOffice | Word<br/>LibreOffice<br/>LaTeX <sup>#</sup> | Word<br/>LibreOffice<br/>Google Docs | Word<br/>LibreOffice<br/>LaTeX <sup>#</sup><br/>Google Docs |
-| **Number of built-in citation styles** | undefined - Tex distribution dependant | 7,000+ </br> from [EndNote repository](https://endnote.com/downloads/styles/)| 9'500+ </br> from [CSL repository](https://citationstyles.org/authors/)| 9'500+ </br>from [CSL repository](https://citationstyles.org/authors/) | 9'500+</br>from [CSL repository](https://citationstyles.org/authors/)|
+| **Number of built-in citation styles** | undefined - Tex distribution dependant | 7,000+ </br> from [EndNote repository](https://endnote.com/downloads/styles/)| 9'600+ </br> from [CSL repository](https://www.zotero.org/styles)| 9'600+ </br>from [CSL repository](https://www.zotero.org/styles) | 9'600+</br>from [CSL repository](https://www.zotero.org/styles)|
 
 <sup>#</sup> : through export and auto-update of a BibTex file.
 
@@ -242,13 +242,13 @@ Open Zotero and click on the "Save to Zotero" button in your browser to save the
 
 Example : [an article from Journal of Wine Research](https://doi.org/10.1080/09571264.2018.1433140)
 
-**|!| Tips : choose the right source of information and do not procrastinate**
+**💡 Tips : choose the right source of information and do not procrastinate**
 
 The best is to collect bibliographic references **while you are in the process of looking for information**. By that, we mean that you will be more efficient if you directly collect the metadata while you are on the website / database / library catalog where you find your documents. In this way, you won't need to find the reference a second time afterwards.
 
 Prefer **reliable and exhaustive sources of information**, at least when you save information, _i.e._ :
 * publisher sites and bibliographic databases for journal articles and book chapters (SpringerLink, Scopus, Cairn, etc. // avoid Google Scholar),
-* library catalogs for books (Babord+, WorldCat // avoid amazon).
+* library catalogs for books (Babord+, WorldCat // avoid Amazon).
 
 In other words, you may start your search using Google or Google Scholar, but when it comes to saving information, do not forget to go to the article’s own page or to the creator of the content's website.
 
@@ -292,7 +292,7 @@ Example : the ISBN of a book  or a report, the DOI of a scientific paper.
 
 If you already have stored PDFs on your computer, it might be possible to retrieve metadata from them afterwards.
 
-**/!\\ This is not the recommended default method**.  It is useful for processing a bunch of PDFs you have in stock, but this should not be your usual method of adding content to your Zotero library.
+**⚠️ This is not the recommended default method**.  It is useful for processing a bunch of PDFs you have in stock, but this should not be your usual method of adding content to your Zotero library.
 
 To add the PDF to Zotero, just drag it from a folder and drop it in your library. Zotero automatically searches for metadata and automatically creates an item attached to the PDF file when possible. However, it might be that the PDF you added to your Zotero library is not machine-readable or is not recognized by Zotero. In that case, no metadata will be retrieved. You will have to add metadata using DOI or by hand, using _Create Parent Item_ feature.
 
@@ -359,7 +359,7 @@ We will focus on some most useful features as you are starting your library, tha
 * searches -> quick vs. advanced, immediate vs. saved with dynamic update,.
 * notes.
 
-**/!\\** In Zotero, the icon associated with a **collection** is a folder but collections are more like **music playlists** (think of iTunes, Spotify, etc.) than folders in your computer filesystem.
+**⚠️** In Zotero, the icon associated with a **collection** is a folder but collections are more like **music playlists** (think of iTunes, Spotify, etc.) than folders in your computer filesystem.
 
 ### Exercise 4-1, getting started with organization
 
@@ -384,7 +384,7 @@ We will take **10 minutes** for this exercise.
 
 ### Going further
 
-**|!| Tip : let Zotero works for you**
+**💡 Tip : let Zotero works for you**
 
 Keep in mind that filing items in collections, adding tags, etc. requires manual input and takes time. **Saved searches** are a great way to save time and efficiency, using automatically the information you have retrieved and added for each item.
 
@@ -419,10 +419,10 @@ Saunders, T. (2019, February 13). _Guide to Getting the Most out of Zotero_. Tom
 
 Citation styles change how citations appear in your texts and the way bibliographic information is displayed when you create a bibliography.
 
-A citation style applies rules about which metadata to display for each document type as well as how to format the in-text citation and the reference in the bibliography. These citation styles can be defined by publishers, scientific societies or individuals, for instance. You could off course apply the citation rules by hand, but Zotero will be faster and more consistent. For example, Zotero will:
+A citation style applies rules about which metadata to display for each document type as well as how to format the in-text citations and the references in the bibliography. These citation styles can be defined by publishers, scientific societies or individuals, for instance. Of course, you could apply the citation rules by hand, but Zotero will be faster and more consistent. For example, Zotero will:
 
 * count authors and display _et al._ when needed;
-* calculate, generate and update accurate in-text citations, wether numeric or author-date;
+* calculate, generate and update accurate in-text citations, whether numeric or author-date;
 * include all the references you have cited in your text in the bibliography;
 * sort this bibliography according to the requirements of the citation style;
 * handle and fix punctuation, capitalization, indentation;
@@ -458,8 +458,7 @@ Produce a document identical to this text.
 * Retrieve and add to your Zotero library the bibliographic references cited, you should find all of them online.
 * Make sure you have installed APA style.
 
-**|!| Tips**
-
+**💡 Tips**
 
 * Do not forget to type the title "Bibliography", as it will not be generated by Zotero.
 * Want to know more about citing theses according to APA 7th ? Check this webpage :
@@ -490,7 +489,7 @@ Zotero also does the following.
 
 Zotero is also compatible with other writing softwares and services (such as Overleaf or Authorea).
 
-Using LaTex or services relying on a BibTeX file ? Install [Better BibTex (BBT) - plugin](https://retorque.re/zotero-better-bibtex/).
+Using LaTex or services relying on a BibTeX file ? Install [Better BibTeX (BBT) - plugin](https://retorque.re/zotero-better-bibtex/).
 
 
 ## 6. Questions, next steps and conclusion
@@ -509,7 +508,7 @@ Make sure your Zotero data directory is included in the backups of your computer
 
 ![zotero][zotero] [Zotero Documentation : The Zotero Data Directory](https://www.zotero.org/support/zotero_data)
 
-**/!\\  Syncing is not a recommended strategy for backing up** . Indeed, the Zotero servers only store the most recent version of your library, and it takes just a single (possibly automatic) sync to change the server copy. Syncing is useful to get a copy of your library in multiple devices and to create group libraries, but it is different from backing up.
+**⚠️ Syncing is not a recommended strategy for backing up** . Indeed, the Zotero servers only store the most recent version of your library, and it takes just a single (possibly automatic) sync to change the server copy. Syncing is useful to get a copy of your library in multiple devices and to create group libraries, but it is different from backing up.
 
 ![zotero][zotero] [Zotero Documentation : Syncing](https://www.zotero.org/support/sync)
 
