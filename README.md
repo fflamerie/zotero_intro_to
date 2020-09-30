@@ -2,6 +2,8 @@
 
 Training material of a 2 hour workshop for Master Wintour M1 students at University of Bordeaux.
 
+A french version of this training course, designed for **health science** students, is available from [Introduction à Zotero, votre assistant de recherche personnel](https://github.com/fflamerie/zotero_intro_FR).
+
 The material consists of the following elements.
 
 * Handout : [in .md format](https://github.com/fflamerie/zotero_intro_to/blob/master/content/zotero_intro_to.md) recommended for online reading and [in .pdf format](https://github.com/fflamerie/zotero_intro_to/blob/master/content/zotero_intro_to.pdf)
