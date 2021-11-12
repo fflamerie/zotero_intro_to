@@ -1,8 +1,8 @@
-# Introduction to Zotero, soon your personal research assistant - Biology
+# Introduction to Zotero, soon your personal research assistant - biology, pharmacology
 
-Training material of a 2 hour workshop for Cancer Biology M2 students at University of Bordeaux.
+Training material of a 2 hour workshop for cancer biology and pharmacology M2 students at University of Bordeaux.
 
-**Last update : September 2021**.
+**Last update : November 2021**.
 
 The material consists of the following elements.
 
@@ -12,10 +12,12 @@ The material consists of the following elements.
 * EXERCISE "Adding items" : 
    * [TEST_RIS.ris file to import](https://github.com/fflamerie/zotero_intro_to/blob/cbio/content/TEST_RIS.ris)
    * [TEST_PDF.pdf file to drag and drop](https://github.com/fflamerie/zotero_intro_to/blob/cbio/content/TEST_PDF.pdf)
- * EXERCISE "Citing with Zotero" : 
+ * EXERCISE "Citing with Zotero - Cancer Biology" : 
    * [zotero_citing_M2CBIO_EXERCISE.docx : Word exercise file to edit](https://github.com/fflamerie/zotero_intro_to/blob/cbio/content/zotero_citing_M2CBIO_EXERCISE.docx)
    * [zotero_citing_M2CBIO_TEMPLATE.pdf : PDF template file](https://github.com/fflamerie/zotero_intro_to/blob/cbio/content/zotero_citing_M2CBIO_TEMPLATE.pdf)
-   
+ * EXERCISE "Citing with Zotero - Pharmacology" : 
+   * [zotero_citing_M2CPHARMA_EXERCISE.docx : Word exercise file to edit](https://github.com/fflamerie/zotero_intro_to/blob/cbio/content/zotero_citing_M2PHARMA_EXERCISE.docx)
+   * [zotero_citing_M2PHARMA_TEMPLATE.pdf : PDF template file](https://github.com/fflamerie/zotero_intro_to/blob/cbio/content/zotero_citing_M2PHARMA_TEMPLATE.pdf)   
   
 
 </br> 
