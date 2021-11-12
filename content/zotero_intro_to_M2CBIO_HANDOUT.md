@@ -13,52 +13,13 @@ The following icon ![zotero][zotero] points to the official Zotero documentation
 
 <!-- MDTOC maxdepth:3 firsth1:0 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
 
-- [Learning objectives](#learning-objectives)   
-- [Agenda](#agenda)   
-- [1. Introduction](#1-introduction)   
-   - [A common pre-Zotero workflow](#a-common-pre-zotero-workflow)   
-      - [Step 1, collecting](#step-1-collecting)   
-      - [Step 2, organizing](#step-2-organizing)   
-      - [Step 3, citing](#step-3-citing)   
-      - [Typical problems](#typical-problems)   
-   - [Why Zotero?](#why-zotero)   
-      - [Overview](#overview)   
-      - [Comparing Zotero and other reference management softwares](#comparing-zotero-and-other-reference-management-softwares)   
-      - [More about Zotero](#more-about-zotero)   
-- [2. Installing and setting up Zotero](#2-installing-and-setting-up-zotero)   
-   - [How to check if the installation worked?](#how-to-check-if-the-installation-worked)   
-   - [Tips for setting up Zotero](#tips-for-setting-up-zotero)   
-- [3. Building a Zotero library step 1, adding items and files](#3-building-a-zotero-library-step-1-adding-items-and-files)   
-   - [Adding content via your web browser](#adding-content-via-your-web-browser)   
-   - [Exercise 3-1, adding content with the Zotero Connector](#exercise-3-1-adding-content-with-the-zotero-connector)   
-   - [All methods of adding items to your library](#all-methods-of-adding-items-to-your-library)   
-      - [1, the Zotero Connector](#1-the-zotero-connector)   
-      - [2, importing file or importing from clipboard](#2-importing-file-or-importing-from-clipboard)   
-      - [4, with a unique identifier](#4-with-a-unique-identifier)   
-      - [5, from PDFs](#5-from-pdfs)   
-      - [3, by hand](#3-by-hand)   
-   - [Exercise 3-2, try another method of adding content](#exercise-3-2-try-another-method-of-adding-content)   
-   - [Checking and editing items](#checking-and-editing-items)   
-- [4. Building a Zotero library step 2, organizing content](#4-building-a-zotero-library-step-2-organizing-content)   
-   - [Tools to organize your library](#tools-to-organize-your-library)   
-   - [Exercise 4-1, getting started with organization](#exercise-4-1-getting-started-with-organization)   
-      - [Tagging](#tagging)   
-      - [Searching](#searching)   
-      - [Taking notes](#taking-notes)   
-   - [Going further](#going-further)   
-      - [Getting inspiration from what others do](#getting-inspiration-from-what-others-do)   
-      - [Full documentation](#full-documentation)   
-- [5. Citing with Zotero](#5-citing-with-zotero)   
-   - [Citation styles](#citation-styles)   
-      - [Citation styles to use](#citation-styles-to-use)   
-   - [Exercice 5-1, citing within a word processor document](#exercice-5-1-citing-within-a-word-processor-document)   
-   - [More citing features](#more-citing-features)   
-- [6. Questions, next steps and conclusion](#6-questions-next-steps-and-conclusion)   
-   - [Next steps](#next-steps)   
-      - [Backing up and syncing](#backing-up-and-syncing)   
-      - [Collaborating with Zotero groups](#collaborating-with-zotero-groups)   
-      - [Plugins](#plugins)   
-   - [Support](#support)   
+[1. Introduction](#1-introduction)    
+[2. Installing and setting up Zotero](#2-installing-and-setting-up-zotero)    
+[3. Building a Zotero library step 1, adding items and files](#3-building-a-zotero-library-step-1-adding-items-and-files)    
+[4. Building a Zotero library step 2, organizing content](#4-building-a-zotero-library-step-2-organizing-content)   
+[5. Citing with Zotero](#5-citing-with-zotero)    
+[6. Questions, next steps and conclusion](#6-questions-next-steps-and-conclusion)   
+   
 
 <!-- /MDTOC -->
 
@@ -315,7 +276,7 @@ Add content using another method than the Zotero Connector.
 * **Magic wand**: use this DOI : 10.3390/ijms22073418
 * **Manual entry**: a poster, a presentation or any other item you would need to cite and you cannot find online
 * **From PDF**: use ![this PDF file](https://github.com/fflamerie/zotero_intro_to/blob/cbio/content/TEST_PDF.pdf)
-* **Importing file** : use ![this RIS file](https://github.com/fflamerie/zotero_intro_to/blob/cbio/content/TEST_RIS.ris)
+* **Importing file** : use ![this RIS file](https://raw.githubusercontent.com/fflamerie/zotero_intro_to/cbio/content/TEST_RIS.ris)
 
 ### Checking and editing items
 
