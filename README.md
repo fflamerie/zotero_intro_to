@@ -3,7 +3,7 @@
 Training material of a 2 hour workshop for Master students at University of Bordeaux.
 
 * [M1 Wintour - oenology](https://github.com/fflamerie/zotero_intro_to/tree/wintour): last update March 2020
-* [M2 Cancer Biology](https://github.com/fflamerie/zotero_intro_to/tree/cbio): last update September 2021 -> soon available
+* [M2 Cancer Biology](https://github.com/fflamerie/zotero_intro_to/tree/cbio): last update September 2021 
 
 
 
