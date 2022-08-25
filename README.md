@@ -2,14 +2,18 @@
 
 Training material of a 2 hour workshop for cancer biology and pharmacology M2 students at University of Bordeaux.
 
-**Last update : November 2021**.
+**Last update : August 2022**.
 
-The material consists of the following elements.
+## Learning objectives
+
+* Building and organizing a library for your bibliographic references and your files
+* Citing from your library and creating multiple types of bibliographic outputs
+* Getting started with Zotero and knowing how to continue on your own
 
 ## HANDOUT 
   * [in .HTML format](https://github.com/fflamerie/zotero_intro_to/blob/cbio/content/zotero_intro_to_M2CBIO_HANDOUT.md) recommended for online reading 
   * [in .PDF format](https://github.com/fflamerie/zotero_intro_to/blob/cbio/content/zotero_intro_to_M2CBIO_HANDOUT.pdf)
-## EXERCISE "Adding items" 
+## EXERCISE "Other methods for adding items" 
    * [TEST_RIS.ris file to import](https://github.com/fflamerie/zotero_intro_to/blob/cbio/content/TEST_RIS.ris)
    * [TEST_PDF.pdf file to drag and drop](https://github.com/fflamerie/zotero_intro_to/blob/cbio/content/TEST_PDF.pdf)
 ## EXERCISE "Citing with Zotero" Cancer Biology
