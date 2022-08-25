@@ -267,7 +267,7 @@ Add content using another method than the Zotero Connector.
 * **Magic wand**: use this DOI : 10.3390/ijms22073418
 * **Manual entry**: a poster, a presentation or any other item you would need to cite and you cannot find online
 * **From PDF**: use [this PDF file](https://github.com/fflamerie/zotero_intro_to/blob/cbio/content/TEST_PDF.pdf)
-* **Importing file** : use [this RIS file](https://raw.githubusercontent.com/fflamerie/zotero_intro_to/cbio/content/TEST_RIS.ris)
+* **Importing file**: use [this RIS file](https://raw.githubusercontent.com/fflamerie/zotero_intro_to/cbio/content/TEST_RIS.ris)
 
 ### Checking and editing items
 
@@ -415,7 +415,7 @@ To manage citation styles, go to Zotero _Preferences_ > _Cite_ > _Styles_. Citat
 
 ![zotero][zotero] [Zotero Documentation: Word processor integration](https://www.zotero.org/support/word_processor_integration)
 
-### Exercice "Citing with Zotero"
+### Exercise "Citing with Zotero"
 
 We will take **20 minutes** for this exercise.
 
