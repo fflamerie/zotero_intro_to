@@ -2,7 +2,7 @@
 
 Training material of a 2 hour workshop for cancer biology and pharmacology M2 students at University of Bordeaux.
 
-**Last update : August 2022**.
+**Last update : November 2022**.
 
 ## Learning objectives
 
