@@ -486,6 +486,27 @@ Group libraries are separate from your personal "My Library".
 
 ![zotero][zotero] [Zotero Documentation: Zotero Groups](https://www.zotero.org/support/groups)
 
+#### Annotate your PDFs with Zotero
+
+Since version 6 released in March 2022, Zotero includes a PDF reader, along with a new note editor. These new features allow you to add the following steps to your Zotero workflow.
+
+* Open PDFs in a built-in reader within the main Zotero window, in a tabbed interface.
+* Clean up metadata for an item while viewing the associated PDF.
+* Mark up PDFs with highlights, notes, image annotations and quotes, **including citation information**.
+* **Add annotations to Zotero notes**: automatically create a note from all annotations in a PDF, or add annotations from different PDFs to a single note.
+* **Cite from annotations**: insert notes into your Word, LibreOffice, and Google Docs documents with active Zotero citations for automatically generating bibliographies.
+
+📑The following 3 mini-tutorials on Twitter will help you get started with these features.
+
+Bilal, M. (2022, August 30). Zotero 101 : A step-by-step guide with visuals [how to take notes and annotate PDFs in Zotero]. Twitter. https://twitter.com/MushtaqBilalPhD/status/1564522758696013824
+
+Bilal, M. (2022, September 11). Zotero 101 : A step-by-step guide with visuals [how to make groups and do « collaborative annotations. »]. Twitter. https://twitter.com/MushtaqBilalPhD/status/1568829219383218179
+
+Bilal, M. (2022, October 17). Zotero 101 : A step-by-step guide with visuals [how to supercharge your writing using Zotero’s Note Editor]. Twitter. https://twitter.com/MushtaqBilalPhD/status/1581927147685687297
+
+![zotero][zotero] [Zotero Documentation : The Zotero PDF Reader and Note Editor](https://www.zotero.org/support/pdf_reader)
+
+
 #### Plugins
 
 You may enhance Zotero features and add new ones with plugins.
