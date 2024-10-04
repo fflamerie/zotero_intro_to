@@ -1,5 +1,7 @@
 # Introduction to Zotero, soon your personal research assistant
 
+🚧 **2024-10: these documents are no longer updated. Training material for the course [Reference management made easy with Zotero](https://github.com/fflamerie/zotero_easy) is up to date and take account of the new features introduced in Zotero 7.**
+
 Training material of a 2 hour workshop for Master students at University of Bordeaux.
 
 * [M1 Wintour - oenology](https://github.com/fflamerie/zotero_intro_to/tree/wintour): last update March 2020
